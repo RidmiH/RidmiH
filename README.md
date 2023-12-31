@@ -20,7 +20,7 @@ About Me
 
 - 📫 How to reach me **ridmihansini97@gmail.com**
 
-- ⚡ Fun fact **I think I am very lucky**
+- ⚡ Fun fact **Food and Music🎵 are the reasons to live.**
 <br>
 
 <h2 align="left">Connect with me</h2>
@@ -42,5 +42,8 @@ About Me
 <br>
 <br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ridmih" alt="ridmih" /></a> </p>
-<br>
+<div align=center>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=1010nishant&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
+</div>
