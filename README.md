@@ -35,15 +35,12 @@ About Me
 <br>
 <br>
 
-[![Ridmi's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=RidmiH&theme=tokyonight)](https://git.io/praveenscience)
 
 | ![Ridmi's github stats](https://github-readme-stats.vercel.app/api?username=RidmiH&show_icons=true&theme=tokyonight) | ![Ridmi GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RidmiH&theme=tokyonight) |
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RidmiH&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=RidmiH&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
-
+<br>
 <br>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ridmih" alt="ridmih" /></a> </p>
 <br>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ridmih&show_icons=true&locale=en&layout=compact" alt="ridmih" /></p>
